@@ -1,6 +1,6 @@
 # Technical Discussion
 
-The technical discussion revolving SpiceNet is divided into several major areas:
+The technical discussion surrounding SpiceNet is divided into several major areas:
 
 * NOMT: Nearly Optimal Merkle Trees to solve state access bottlenecks.
 * Deterministic STF and Sequencer: Deterministic state updates allowing for least downtine.
