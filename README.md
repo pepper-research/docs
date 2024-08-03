@@ -14,9 +14,10 @@ SpiceNet architecture can be broken down into these important constructions and 
   * Internal data sharding(phase 1)
   * New, high-performance improvements
 * Project Artemis
-  * blobstream-solana
-  * agglayer-solana
-  * solana-spv-client
+  * Trust-minimized bridging
+    * blobstream-solana
+    * solana spv-client
+  * Trust-minimized interoperability
 
 We believe that the above architecture provides a path towards scalability for decentralized exchanges, all the while maintaining the decentralization status-quo. Our north star would always be to maximize performance **and** decentralization while minimizing downtime and clunky UX for the end-user. We do not aim to make SpiceNet another general-purpose rollup, although we do want to make it permissionless, there is a fine line between the both. General purpose computation refers to arbitrary computation in a pre-defined environment, this would add huge engineering overhead and destroy our performance benefits. Permissionless innovation refers to the ability of anyone to add new features to the SpiceNet trading engine.&#x20;
 
