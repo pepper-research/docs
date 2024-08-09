@@ -10,13 +10,7 @@ SpiceNet architecture can be broken down into these important constructions and 
 
 * [Technical Discussion](technical-discussion/): Contains details about different components and design considerations of SpiceNet.
 * [Sovereign Rollups](sovereign-rollups.md): Understanding the differences between Sovereign rollups and Settled rollups.
-* Research interests: Sharing our research that aims to scale the capacity and performance of Spicenet.
-  * The Velocity runtime: A state-of-art and high-performance runtime featuring multiple low-level improvements.
-  * Asynchronous Execution: Abstracting execution from the Spicenet transaction flow, massively boosting performance.
-  * Data sharding:
-    * Pseudo sharding(Phase 1): Involves splitting of compute across different machines of the centralized sequencer.
-    * Full sharding(Phase 2): Fully sharded state and permissionless appointment of sequencers for shards. Introduction of consensus to monitor cross-shard consistency.&#x20;
-  * Based sequencing: Developing the based sequencing pipeline for Celestia, including proposer selection, collateral and stake, and based pre-confs.
+* [Research interests](research-interests/): Sharing our research that aims to scale the capacity and performance of Spicenet.
 * Project Artemis
   * Trust-minimized bridging
     * blobstream-solana
