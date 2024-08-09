@@ -11,3 +11,5 @@
     * [Sequential execution: Our current state](technical-discussion/execution-layer-el/sequential-execution-our-current-state.md)
     * [Why Spicenet does not have a VM](technical-discussion/execution-layer-el/why-spicenet-does-not-have-a-vm.md)
   * [DA Layer Considerations](technical-discussion/da-layer-considerations.md)
+* [Research Interests](research-interests/README.md)
+  * [The Velocity Stack](research-interests/the-velocity-stack.md)
