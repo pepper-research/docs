@@ -14,3 +14,4 @@
 * [Research Interests](research-interests/README.md)
   * [The Velocity Stack](research-interests/the-velocity-stack.md)
   * [Asynchronous Execution](research-interests/asynchronous-execution.md)
+  * [Sharding](research-interests/sharding.md)
